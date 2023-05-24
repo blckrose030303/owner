@@ -8,5 +8,5 @@ def generar_hobby():
 hobby = generar_hobby()
 print("Tu hobby aleatorio es:", hobby)
 #AngelaChavez
-#Bandera de países
+#comidasrapidas
 #IEM_ESCUELA_NORMAL_PASTO #11-1
