@@ -18,3 +18,6 @@ def  obtener_colores_bandera ( pais ):
 # Ejemplo de uso
 pais  =  input ( "Ingresa el nombre de un pais: " )
 obtener_colores_bandera ( pais )
+#YulianCastañeda
+#Bandera de países
+#IEM_ESCUELA_NORMAL_PASTO #11-1
