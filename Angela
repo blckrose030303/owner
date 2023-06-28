@@ -1,0 +1,10 @@
+import random
+def generar_hobby():
+    hobbies = ['leer', 'bailar', 'tocar un instrumento', 'pintar', 'cocinar', 'jugar videojuegos', 'hacer ejercicio', 'ver películas', 'escribir', 'jardinería']
+    hobby_aleatorio = random.choice(hobbies)
+    return hobby_aleatorio
+hobby = generar_hobby()
+print("Tu hobby aleatorio es:", hobby)
+#AngelaChavez
+#comidasrapidas
+#IEM_ESCUELA_NORMAL_PASTO #11-1
