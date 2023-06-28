@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Página de Noticias</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <h1>Página de Noticias</h1>
+
+  <article>
+    <h2>Selena Gomez Debutó en "Barney y sus amigos":</h2>
+    <p class="date">Fecha: 2002/2004</p>
+    <p class="author">Autor: Juan Pérez</p>
+    <p>Selena Gomez tenía solo 10 años cuando debutó en el programa infantil, "Barney y sus amigos", donde participó desde 2002 al 2004, lo que le abriría las puertas para triunfar en la televisión. </p>
+  </article>
+
+  <article>
+    <h2>Selena Gomez Saltó a la fama gracias a Disney Chanell:</h2>
+    <p class="date">Fecha: 2007</p>
+    <p class="author">Autor: María Gómez</p>
+    <p>La actriz abandonó en anonimato cuando protagonizó la serie "Los Hechiceros de Waverly Place" en 2007. Un proyecto que comenzó cuando tenía 16 años y que terminó cuando tenía 20. Incluso, en una rueda de prensa confesó: "Renuncié a mi vida por estar en Disney a una edad muy temprana (...) Era una niña que no sabía lo que hacía, solo corría por el set". </p>
+  </article>
+
+  <article>
+    <h2>Selena Gomez Fue productora de varios proyectos:</h2>
+    <p class="date">Fecha: 2007/2020</p>
+    <p class="author">Autor: Pedro Rodríguez</p>
+    <p>Selena Gomez ha producido varias películas y series como "Por 13 razones", de 2017 a 2020; "Solo asesinatos en el edificio", de 2021 a la fecha; y este año, "Hotel transilvania: Transformanía". </p>
+  </article>
+</body>
+</html>
