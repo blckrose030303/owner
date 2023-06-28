@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Página de Noticias</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <h1>Página de Noticias</h1>
+
+  <article>
+    <h2>Cristiano Ronaldo renueva su contrato con el Manchester United:</h2>
+    <p class="date">Fecha: 20 de enero de 2023</p>
+    <p class="author">Autor: Juan Pérez</p>
+    <p>El destacado futbolista portugués, Cristiano Ronaldo, ha acordado una renovación de contrato con el Manchester United. Tras su regreso al club en la temporada pasada, Ronaldo ha demostrado su valía y liderazgo en el campo, lo que llevó a ambas partes a acordar un nuevo contrato que extenderá su estadía en Old Trafford.</p>
+  </article>
+
+  <article>
+    <h2>Cristiano Ronaldo supera el récord de goles en la Eurocopa:</h2>
+    <p class="date">Fecha: 15 de febrero de 2023</p>
+    <p class="author">Autor: María Gómez</p>
+    <p>Durante el reciente torneo de la Eurocopa, Cristiano Ronaldo alcanzó un hito significativo al convertirse en el máximo goleador en la historia de la competencia. El delantero portugués anotó varios goles durante el torneo y superó el récord previo establecido por Michel Platini, consolidando aún más su legado como uno de los mejores jugadores de la historia del fútbol.</p>
+  </article>
+
+  <article>
+    <h2>Cristiano Ronaldo lanza una línea de ropa deportiva:</h2>
+    <p class="date">Fecha: 5 de marzo de 2023</p>
+    <p class="author">Autor: Pedro Rodríguez</p>
+    <p>En un nuevo paso hacia el mundo de los negocios y la moda, Cristiano Ronaldo ha lanzado su propia línea de ropa deportiva. La marca, que lleva su nombre, ofrece una variedad de productos diseñados para combinar estilo y funcionalidad en el ámbito deportivo. Ronaldo se une así a otros futbolistas que incursionan en el mundo del emprendimiento y la moda, expandiendo su influencia más allá del terreno de juego.</p>
+  </article>
+</body>
+</html>
