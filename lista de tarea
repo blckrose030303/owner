@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lista de Tareas</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <h1>Lista de Tareas</h1>
+  <ul>
+    <li>
+      <label for="task1"><input type="checkbox" id="task1">Tarea de tecno</label>
+      <p>largo1</p>
+    </li>
+    <li>
+      <label for="task2"><input type="checkbox" id="task2">Tarea de quimica</label>
+      <p>nose2</p>
+    </li>
+    <li>
+      <label for="task3"><input type="checkbox" id="task3">Tarea de didactica</label>
+      <p>no puede ser3</p>
+    </li>
+  </ul>
+</body>
+</html>
